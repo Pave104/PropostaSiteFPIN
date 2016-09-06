@@ -1,0 +1,15 @@
+
+
+Sobre o Amiga(Esquema inicial)
+
+  1-Desenvolvedores;
+   2-O site terá uma página de entrada,com atrativos gráficos
+   que servirão para levar o internauta interessado à página de núcleo.
+   A página de núcleo oferecerá informações detalhadas sobre ONGS,eo que 
+   vem a ser o amiga.
+   Na página de núcleo, o sistema proverá um logim,que dará acesso
+   a área de cadastro,dividida em cadastro pessoal(voluntarios para as ongs) onde será obrigatorio seu CPF, e cadastro de ONGS,onde será pe
+   dido CNPJ da mesma.
+   As base de dados serâo providas pelo DB_1 ,pessoas,DB_2 ONGS,
+   de forma que quem se cadastrar poderá ter acesso ao DB_2 para visualizar ONGS parceiras e Administradores teão acesso ao DB_1,com informaçãoes sobre voluntarios.
+   Tera o site amiga Espaço para divulgação de eventos de ONGS cadastradas.
