@@ -1,8 +1,8 @@
-
+﻿
 
 Sobre o Amiga(Esquema inicial)
 
-  1-Desenvolvedores;
+  1-Desenvolvedores:(Aqui o nome dos integrantes da equipe).
    2-O site terá uma página de entrada,com atrativos gráficos
    que servirão para levar o internauta interessado à página de núcleo.
    A página de núcleo oferecerá informações detalhadas sobre ONGS,eo que 
